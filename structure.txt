@@ -1,0 +1,127 @@
+Folder PATH listing for volume UNI
+Volume serial number is D02C-35F0
+E:.
+¦   Admin.cs
+¦   Admin.Designer.cs
+¦   Admin.resx
+¦   Appetizers.cs
+¦   Appetizers.Designer.cs
+¦   Appetizers.resx
+¦   Beverages.cs
+¦   Beverages.Designer.cs
+¦   Beverages.resx
+¦   Desserts.cs
+¦   Desserts.Designer.cs
+¦   Desserts.resx
+¦   Home.cs
+¦   Home.Designer.cs
+¦   Home.resx
+¦   Login.cs
+¦   Login.Designer.cs
+¦   Login.resx
+¦   Main Course.cs
+¦   Main Course.Designer.cs
+¦   Main Course.resx
+¦   Order.cs
+¦   Order.Designer.cs
+¦   Order.resx
+¦   orfoo.csproj
+¦   orfoo.csproj.user
+¦   orfoo.sln
+¦   Program.cs
+¦   README.md
+¦   structure.txt
+¦   
++---bin
+¦   +---Debug
+¦       +---net8.0-windows
+¦               orfoo.deps.json
+¦               orfoo.dll
+¦               orfoo.exe
+¦               orfoo.pdb
+¦               orfoo.runtimeconfig.json
+¦               
++---obj
+¦   ¦   orfoo.csproj.nuget.dgspec.json
+¦   ¦   orfoo.csproj.nuget.g.props
+¦   ¦   orfoo.csproj.nuget.g.targets
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   
+¦   +---Debug
+¦       +---net8.0-windows
+¦           ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦           ¦   apphost.exe
+¦           ¦   orfoo.Admin.resources
+¦           ¦   orfoo.Appetizers.resources
+¦           ¦   orfoo.AssemblyInfo.cs
+¦           ¦   orfoo.AssemblyInfoInputs.cache
+¦           ¦   orfoo.assets.cache
+¦           ¦   orfoo.Beverages.resources
+¦           ¦   orfoo.csproj.BuildWithSkipAnalyzers
+¦           ¦   orfoo.csproj.CoreCompileInputs.cache
+¦           ¦   orfoo.csproj.FileListAbsolute.txt
+¦           ¦   orfoo.csproj.GenerateResource.cache
+¦           ¦   orfoo.designer.deps.json
+¦           ¦   orfoo.designer.runtimeconfig.json
+¦           ¦   orfoo.Desserts.resources
+¦           ¦   orfoo.dll
+¦           ¦   orfoo.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   orfoo.genruntimeconfig.cache
+¦           ¦   orfoo.GlobalUsings.g.cs
+¦           ¦   orfoo.Home.resources
+¦           ¦   orfoo.Login.resources
+¦           ¦   orfoo.Main_Course.resources
+¦           ¦   orfoo.Order.resources
+¦           ¦   orfoo.pdb
+¦           ¦   orfoo.Properties.Resources.resources
+¦           ¦   
+¦           +---ref
+¦           ¦       orfoo.dll
+¦           ¦       
+¦           +---refint
+¦           ¦       orfoo.dll
+¦           ¦       
+¦           +---TempPE
+¦                   Properties.Resources.Designer.cs.dll
+¦                   
++---Properties
+¦       Resources.Designer.cs
+¦       Resources.resx
+¦       
++---Resources
+        admin.png
+        appeizers1.jpg
+        bell.png
+        beverages.jpg
+        cakes.jpg
+        chips and dips.jpg
+        chips and dips1.jpg
+        desserts.jpg
+        desserts1.jpg
+        download (1).jpeg
+        download (1)_999x665.jpeg
+        download (2).jpeg
+        download (3).jpeg
+        download - Copy_999x665.jpeg
+        download.jpeg
+        download1.jpeg
+        f rice.jpg
+        gear.png
+        grocery-cart (1).png
+        grocery-cart.png
+        house.png
+        ice cream.jpg
+        juices.jpg
+        kottu 1.jpg
+        Main Course..jpg
+        pudding.jpg
+        r and c.jpg
+        salad.jpg
+        salad1.jpg
+        soft drinks.jpg
+        soup.jpg
+        soup1.jpg
+        soup2.jpg
+        tea.jpg
+        

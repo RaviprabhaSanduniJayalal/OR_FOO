@@ -147,40 +147,40 @@ namespace orfoo
 
         private void button3_Click(object sender, EventArgs e)
         {
-            /* List<Appetizers> selectedAppetizers = new List<Appetizers>();
+             //List<Appetizers> selectedAppetizers = new List<Appetizers>();
 
-             // Check if "Vegetable Soup" is selected
-             if (orderCheckBox1.Checked && int.TryParse(textBoxSoupQuantity.Text, out int soupQty) && soupQty > 0)
-             {
-                 double soupPrice = double.Parse(labelSoupPrice.Text.Replace("Rs: ", "")); // Parse price from label
-                 selectedAppetizers.Add(new Appetizers("Vegetable Soup", soupQty, soupPrice));
-             }
+             //// Check if "Vegetable Soup" is selected
+             //if (orderCheckBox1.Checked && int.TryParse(textBoxSoupQuantity.Text, out int soupQty) && soupQty > 0)
+             //{
+             //    double soupPrice = double.Parse(labelSoupPrice.Text.Replace("Rs: ", "")); // Parse price from label
+             //    selectedAppetizers.Add(new Appetizers("Vegetable Soup", soupQty, soupPrice));
+             //}
 
-             // Check if "Salad" is selected
-             if (orderCheckBox2.Checked && int.TryParse(textBoxSaladQuantity.Text, out int saladQty) && saladQty > 0)
-             {
-                 double saladPrice = double.Parse(labelSaladPrice.Text.Replace("Rs: ", ""));
-                 selectedAppetizers.Add(new Appetizers("Salad", saladQty, saladPrice));
-             }
+             //// Check if "Salad" is selected
+             //if (orderCheckBox2.Checked && int.TryParse(textBoxSaladQuantity.Text, out int saladQty) && saladQty > 0)
+             //{
+             //    double saladPrice = double.Parse(labelSaladPrice.Text.Replace("Rs: ", ""));
+             //    selectedAppetizers.Add(new Appetizers("Salad", saladQty, saladPrice));
+             //}
 
-             // Check if "Chips and Dips" is selected
-             if (orderCheckBox3.Checked && int.TryParse(textBoxChipsQuantity.Text, out int chipsQty) && chipsQty > 0)
-             {
-                 double chipsPrice = double.Parse(labelChipsPrice.Text.Replace("Rs: ", ""));
-                 selectedAppetizers.Add(new Appetizers("Chips and Dips", chipsQty, chipsPrice));
-             }
+             //// Check if "Chips and Dips" is selected
+             //if (orderCheckBox3.Checked && int.TryParse(textBoxChipsQuantity.Text, out int chipsQty) && chipsQty > 0)
+             //{
+             //    double chipsPrice = double.Parse(labelChipsPrice.Text.Replace("Rs: ", ""));
+             //    selectedAppetizers.Add(new Appetizers("Chips and Dips", chipsQty, chipsPrice));
+             //}
 
-             // Pass selected appetizers to the Order form
-             if (selectedAppetizers.Count > 0)
-             {
-                 Order orderForm = new Order(selectedAppetizers);
-                 this.Hide(); // Hide the current form
-                 orderForm.Show(); // Show the Order form
-             }
-             else
-             {
-                 MessageBox.Show("Please select at least one appetizer.", "No Selection", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-             }*/
+             //// Pass selected appetizers to the Order form
+             //if (selectedAppetizers.Count > 0)
+             //{
+             //    Order orderForm = new Order(selectedAppetizers);
+             //    this.Hide(); // Hide the current form
+             //    orderForm.Show(); // Show the Order form
+             //}
+             //else
+             //{
+             //    MessageBox.Show("Please select at least one appetizer.", "No Selection", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+             //}
 
             List<Appetizers> selectedAppetizers = new List<Appetizers>();
 

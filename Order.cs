@@ -12,15 +12,20 @@ namespace orfoo
 {
     public partial class Order : Form
     {
-        
 
+        private List<Appetizers> appetizers;
         private List<Appetizers> selectedAppetizers;
 
         public Order(List<Appetizers> appetizers)
         {
             InitializeComponent();
+            this.appetizers = appetizers;
             selectedAppetizers = appetizers;
             DisplaySelectedAppetizers(); // Optional: Method to populate the form with the passed data
+        }
+
+        public Order()
+        {
         }
 
         private void DisplaySelectedAppetizers()
